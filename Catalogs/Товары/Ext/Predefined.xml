@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.15">
+	<Item id="0ca4e0cf-8c25-43e2-8edd-9d3d13840dff">
+		<Name>Инструменты</Name>
+		<Code>000000002</Code>
+		<Description>Инструменты</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="552c64ce-3ba7-415f-afe6-2618153bd5a0">
+		<Name>Продукты</Name>
+		<Code>000000001</Code>
+		<Description>Продукты</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+</PredefinedData>
